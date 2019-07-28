@@ -1,0 +1,15 @@
+{
+ :bot "bothack.bots.mainbot"
+ :interface :ssh
+ :menubot "bothack.bots.dgl-menu"
+ :host "ascension.run"
+ :port 22
+ :ssh-user "nethack"
+ :ssh-pass ""
+ :dgl-login "we6jbo"
+ :dgl-pass "pimplepop"
+ :dgl-game "3"
+ :ttyrec false
+ :no-exit false
+ :quit-resumed true
+}
